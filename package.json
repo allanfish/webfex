@@ -1,0 +1,27 @@
+{
+  "name": "Front-end-Interview-questions",
+  "version": "0.0.1",
+  "description": "front-end interview quesitions",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allanfish/Front-end-Interview-questions.git"
+  },
+  "keywords": [
+    "front-end",
+    "interview",
+    "quesition"
+  ],
+  "author": "allanfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanfish/Front-end-Interview-questions/issues"
+  },
+  "homepage": "https://github.com/allanfish/Front-end-Interview-questions",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
